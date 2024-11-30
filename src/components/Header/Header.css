@@ -1,0 +1,64 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  border-radius: 10px;
+  background-color: rgb(33,33,33);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000; 
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.detail a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+/* Hover effect for navbar links */
+.main:hover{
+  background-color: rgb(33,33,33);
+}
+
+.items {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-right: 50px;
+  gap: 28px;
+  color: white;
+}
+.items li:hover{
+  text-shadow: green;
+  text-shadow: 1px 1px 2px green;
+}
+
+.one {
+  margin-left: 80px;
+}
+
+.two {
+  background-color: orange;
+  margin-right: 80px;
+  padding: 10px 25px;
+  border-radius: 8px;
+  
+  
+}
+.two:hover{
+  background-color: green;
+}
+a{
+  text-decoration: none;
+  color: white;
+  line-height: 2rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  letter-spacing: 0.06rem;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+

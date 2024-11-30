@@ -1,0 +1,101 @@
+.save {
+  background-image: url(./img/aut.svg);
+  background-repeat: repeat-x; /* Repeats the image horizontally */
+  background-size: auto; /* Keeps the original size of the image */
+  background-position: top;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 60px;
+}
+
+.left {
+  width: 500px;
+  height: 600px;
+  margin-top: 60px;
+  text-align: center;
+  border-radius: 1rem;
+}
+
+.hot {
+  width: 450px;
+  height: 270px;
+  align-content: center;
+  align-items: center;
+}
+
+.loc {
+  box-shadow: 1px 1px 2px orange;
+  background-color: rgb(33, 33, 33);
+  border-radius: 10px;
+  width: 450px;
+  height: 270px;
+  align-content: center;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.py {
+  font-size: 1.8rem;
+}
+.right {
+  box-shadow: 1px 1px 2px orange;
+  border-radius: 1rem;
+  margin-bottom: 15px;
+  height: 600px;
+  width: 500px;
+  margin: 60px;
+  background-color: rgb(33, 33, 33);
+}
+
+.right h2 {
+  font-size: 1.8rem;
+  font-weight: lighter;
+  color: orange;
+  text-align: center;
+}
+.right p {
+  margin: 10px;
+}
+
+.right p label {
+  display: block;
+}
+
+.right p input {
+  width: 100%;
+  height: 29px;
+  border: none;
+  border-radius: 4px;
+}
+.fomo {
+  padding: 0px 20px;
+}
+
+.btnns {
+  padding: 10px 25px;
+  border-radius: 8px;
+  margin-left: 140px;
+  background-color: orange;
+  margin-top: 10px;
+}
+.btnns:hover {
+  background-color: green;
+}
+
+.last {
+  color: orange;
+  text-align: center;
+}
+.last p {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.us {
+  color: orange;
+}
+
+#Description {
+  height: 100px;
+}

@@ -1,0 +1,68 @@
+
+
+
+.all {
+  display: block;
+  height: 50%;
+}
+
+.skill {
+  margin-top: 80px;
+  color: orange;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.imo {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 130px;
+  width: 80%;
+  height: 80%;
+  border-radius: 8px;
+}
+.imo img {
+  box-shadow: 1rem 1rem 1.5rem orange;
+}
+.imo img:hover {
+  background-color: green;
+  box-shadow: 1rem 1rem 1.5rem green;
+}
+
+
+.container {
+  height: 50%;
+  display: inline;
+}
+
+.box {
+  margin-left: 400px;
+  margin-top: 100px;
+
+  
+}
+.progres-bar {
+  width: 60%;
+  height: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.progres-bar-filler {
+  background-color: green;
+  width: 60%;
+  height: 10px;
+  border-radius: 8px;
+}
+
+.progres-label {
+  
+  margin-top: 15px;
+  font-size: larger;
+}
+.btn {
+
+  margin-bottom: 20px;
+}

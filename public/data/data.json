@@ -1,0 +1,75 @@
+[
+
+
+  
+  {
+    "id": 1,
+    "book_image": "https://upload.wikimedia.org/wikipedia/en/f/ff/Clrs4.jpeg",
+    "book_name": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "description": "A comprehensive introduction to algorithms, covering both the theoretical and practical aspects of algorithms and data structures."
+  },
+  {
+    "id": 2,
+    "book_image": "https://example.com/image2.jpg",
+    "book_name": "Computer Networking: A Top-Down Approach",
+    "author": "James Kurose, Keith Ross",
+    "description": "A top-down approach to computer networking, focusing on the application layer, transport layer, and networking technologies."
+  },
+  {
+    "id": 3,
+    "book_image": "https://example.com/image3.jpg",
+    "book_name": "Operating System Concepts",
+    "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+    "description": "A widely used textbook for operating system principles, covering fundamental concepts in OS design and implementation."
+  },
+  {
+    "id": 4,
+    "book_image": "https://example.com/image4.jpg",
+    "book_name": "Database Management Systems",
+    "author": "Raghu Ramakrishnan, Johannes Gehrke",
+    "description": "A detailed exploration of database systems, covering topics like relational databases, SQL, normalization, and more."
+  },
+  {
+    "id": 5,
+    "book_image": "https://example.com/image5.jpg",
+    "book_name": "Digital Design and Computer Architecture",
+    "author": "David Money Harris, Sarah L. Harris",
+    "description": "A book focused on digital design, covering logic circuits, computer architecture, and assembly language programming."
+  },
+  {
+    "id": 6,
+    "book_image": "https://example.com/image6.jpg",
+    "book_name": "Discrete Mathematics and Its Applications",
+    "author": "Kenneth H. Rosen",
+    "description": "A comprehensive introduction to discrete mathematics, focusing on logic, set theory, combinatorics, and graph theory."
+  },
+  {
+    "id": 7,
+    "book_image": "https://example.com/image7.jpg",
+    "book_name": "Data Structures and Algorithms in C++",
+    "author": "Adam Drozdek",
+    "description": "A detailed guide to data structures and algorithms in C++, with clear examples and practical implementations."
+  },
+  {
+    "id": 8,
+    "book_image": "https://example.com/image8.jpg",
+    "book_name": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell, Peter Norvig",
+    "description": "A comprehensive introduction to artificial intelligence, covering search algorithms, knowledge representation, learning, and reasoning."
+  },
+  {
+    "id": 9,
+    "book_image": "https://example.com/image9.jpg",
+    "book_name": "Software Engineering: A Practitioner's Approach",
+    "author": "Roger S. Pressman",
+    "description": "A guide to software engineering principles, focusing on software development processes, design, testing, and maintenance."
+  },
+  {
+    "id": 10,
+    "book_image": "https://example.com/image10.jpg",
+    "book_name": "Introduction to the Theory of Computation",
+    "author": "Michael Sipser",
+    "description": "An introduction to the theoretical aspects of computer science, covering automata, computability, and complexity theory."
+  }
+]

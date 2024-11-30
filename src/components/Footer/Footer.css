@@ -1,0 +1,24 @@
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+    /* position: absolute;
+     */
+    width: 100%;
+    height: 150px;
+    align-items: center;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgb(33,33,33);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.it{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-left: 30rem;
+    font-size: medium;
+    gap: 28px;
+    color: white;
+  }
