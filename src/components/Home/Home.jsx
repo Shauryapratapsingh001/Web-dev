@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./Home.css";
 import { Link } from "react-router-dom";
-import { Card } from "../card/Card";
+import { Card } from "../Card/Card";
 
 const Home = () => {
   const [data, setData] = useState([]); // Moved useState here
