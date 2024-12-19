@@ -117,3 +117,49 @@ p {
   gap: 16px;
   justify-content: center;
 }
+
+
+@media screen and (max-width: 1024px) {
+  .mains{
+   flex-direction: column;
+  }
+  .ones{
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+
+  }
+  .twos{
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .mains{
+   flex-direction: column;
+  }
+  .ones{
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+  }
+  .twos{
+    flex-direction: column;
+  }
+  
+}
+
+@media screen and (max-width: 670px) {
+  .mains{
+   flex-direction: column;
+  }
+  .ones{
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+  }
+  .twos{
+    flex-direction: column;
+  }
+  
+}
